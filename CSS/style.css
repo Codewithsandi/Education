@@ -211,7 +211,7 @@
     padding-top: 80px;
     padding-bottom: 80px;
 }
-#footer h2{
+#footer h2,h4{
     overflow: hidden;
 }
 #footer-search{
